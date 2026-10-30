@@ -1,0 +1,6 @@
+"""Cyberforums BFF open-API reference SDK (stub)."""
+
+from .client import Client
+
+__all__ = ["Client"]
+__version__ = "0.0.1"
